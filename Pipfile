@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+django-tinymce = "*"
+django-imagekit = "*"
+pillow = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+psycopg2-binary = "*"
+django-cors-headers = "*"
+django-autoslug = "*"
+packaging = "*"
+drf-yasg2 = "*"
+django-admin-sortable2 = "*"
+django-sendgrid-v5 = "*"
+python-dotenv = "*"
+
+[requires]
+python_version = "3.8"
